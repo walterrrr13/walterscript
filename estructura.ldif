@@ -1,0 +1,82 @@
+# 1. UNIDADES ORGANIZATIVAS
+dn: ou=Alumnado,dc=walter2026,dc=ldap
+objectClass: organizationalUnit
+ou: Alumnado
+
+dn: ou=Profesorado,dc=walter2026,dc=ldap
+objectClass: organizationalUnit
+ou: Profesorado
+
+# 2. GRUPOS
+dn: cn=asir1,ou=Alumnado,dc=walter2026,dc=ldap
+objectClass: posixGroup
+cn: asir1
+gidNumber: 5001
+
+dn: cn=asir2,ou=Alumnado,dc=walter2026,dc=ldap
+objectClass: posixGroup
+cn: asir2
+gidNumber: 5002
+
+dn: cn=informática1,ou=Profesorado,dc=walter2026,dc=ldap
+objectClass: posixGroup
+cn: informática1
+gidNumber: 5003
+
+dn: cn=informática2,ou=Profesorado,dc=walter2026,dc=ldap
+objectClass: posixGroup
+cn: informática2
+gidNumber: 5004
+
+# 3. USUARIOS
+dn: cn=walteralu1,ou=Alumnado,dc=walter2026,dc=ldap
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: shadowAccount
+cn: walteralu1
+sn: Alumno1
+uid: walteralu1
+uidNumber: 10001
+gidNumber: 5001
+homeDirectory: /home/walteralu1
+loginShell: /bin/bash
+mail: walteralu1@walter2026.ldap
+
+dn: cn=walteralu2,ou=Alumnado,dc=walter2026,dc=ldap
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: shadowAccount
+cn: walteralu2
+sn: Alumno2
+uid: walteralu2
+uidNumber: 10002
+gidNumber: 5002
+homeDirectory: /home/walteralu2
+loginShell: /bin/bash
+mail: walteralu2@walter2026.ldap
+
+dn: cn=walterpro1,ou=Profesorado,dc=walter2026,dc=ldap
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: shadowAccount
+cn: walterpro1
+sn: Profe1
+uid: walterpro1
+uidNumber: 10003
+gidNumber: 5003
+homeDirectory: /home/walterpro1
+loginShell: /bin/bash
+mail: walterpro1@walter2026.ldap
+
+dn: cn=walterpro2,ou=Profesorado,dc=walter2026,dc=ldap
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: shadowAccount
+cn: walterpro2
+sn: Profe2
+uid: walterpro2
+uidNumber: 10004
+gidNumber: 5004
+homeDirectory: /home/walterpro2
+loginShell: /bin/bash
+mail: walterpro2@walter2026.ldap

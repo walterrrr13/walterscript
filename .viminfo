@@ -1,0 +1,280 @@
+# Vim 9.1 generó este archivo "viminfo".
+# Puede editarlo, ¡sólo si tiene cuidado!
+
+# Viminfo version
+|1,4
+
+# Valor de 'encoding' cuando se escribió este archivo
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# Historia de Línea de órdenes (de lo más nuevo a lo más antiguo):
+:wq
+|2,0,1791067479,,"wq"
+
+# Historia de Cadena de búsqueda (de lo más nuevo a lo más antiguo):
+
+# Historia de Expresión (de lo más nuevo a lo más antiguo):
+
+# Historia de Línea de entrada (de lo más nuevo a lo más antiguo):
+
+# Historia de Línea de depuración (de lo más nuevo a lo más antiguo):
+
+# Registros:
+
+# Marcas en el archivo:
+'0  103  1  ~/usuarios.ldif
+|4,48,103,1,1791067479,"~/usuarios.ldif"
+'1  1  0  ~/grupos.ldif
+|4,49,1,0,1791066808,"~/grupos.ldif"
+'2  1  0  ~/grupos.ldif
+|4,50,1,0,1791066570,"~/grupos.ldif"
+'3  7  14  ~/unidades.ldif
+|4,51,7,14,1791066214,"~/unidades.ldif"
+'4  1  0  ~/estructura.ldif
+|4,52,1,0,1791066195,"~/estructura.ldif"
+'5  7  14  ~/unidades.ldif
+|4,53,7,14,1791066182,"~/unidades.ldif"
+'6  1  0  ~/unidades.ldif
+|4,54,1,0,1791065989,"~/unidades.ldif"
+'7  1  0  ~/unidades.ldif
+|4,55,1,0,1791065989,"~/unidades.ldif"
+'8  1  0  ~/unidades.ldif
+|4,56,1,0,1791065989,"~/unidades.ldif"
+'9  1  0  ~/unidades.ldif
+|4,57,1,0,1791065989,"~/unidades.ldif"
+
+# Lista de saltos (el más reciente va primero):
+-'  103  1  ~/usuarios.ldif
+|4,39,103,1,1791067479,"~/usuarios.ldif"
+-'  1  0  ~/usuarios.ldif
+|4,39,1,0,1791067360,"~/usuarios.ldif"
+-'  1  0  ~/grupos.ldif
+|4,39,1,0,1791066808,"~/grupos.ldif"
+-'  1  0  ~/grupos.ldif
+|4,39,1,0,1791066808,"~/grupos.ldif"
+-'  1  0  ~/grupos.ldif
+|4,39,1,0,1791066570,"~/grupos.ldif"
+-'  1  0  ~/grupos.ldif
+|4,39,1,0,1791066570,"~/grupos.ldif"
+-'  7  14  ~/unidades.ldif
+|4,39,7,14,1791066214,"~/unidades.ldif"
+-'  7  14  ~/unidades.ldif
+|4,39,7,14,1791066214,"~/unidades.ldif"
+-'  7  14  ~/unidades.ldif
+|4,39,7,14,1791066214,"~/unidades.ldif"
+-'  7  14  ~/unidades.ldif
+|4,39,7,14,1791066214,"~/unidades.ldif"
+-'  7  14  ~/unidades.ldif
+|4,39,7,14,1791066214,"~/unidades.ldif"
+-'  7  14  ~/unidades.ldif
+|4,39,7,14,1791066214,"~/unidades.ldif"
+-'  7  14  ~/unidades.ldif
+|4,39,7,14,1791066214,"~/unidades.ldif"
+-'  7  14  ~/unidades.ldif
+|4,39,7,14,1791066214,"~/unidades.ldif"
+-'  1  0  ~/estructura.ldif
+|4,39,1,0,1791066195,"~/estructura.ldif"
+-'  1  0  ~/estructura.ldif
+|4,39,1,0,1791066195,"~/estructura.ldif"
+-'  1  0  ~/estructura.ldif
+|4,39,1,0,1791066195,"~/estructura.ldif"
+-'  1  0  ~/estructura.ldif
+|4,39,1,0,1791066195,"~/estructura.ldif"
+-'  1  0  ~/estructura.ldif
+|4,39,1,0,1791066195,"~/estructura.ldif"
+-'  1  0  ~/estructura.ldif
+|4,39,1,0,1791066195,"~/estructura.ldif"
+-'  1  0  ~/estructura.ldif
+|4,39,1,0,1791066195,"~/estructura.ldif"
+-'  1  0  ~/estructura.ldif
+|4,39,1,0,1791066195,"~/estructura.ldif"
+-'  1  0  ~/estructura.ldif
+|4,39,1,0,1791066195,"~/estructura.ldif"
+-'  1  0  ~/estructura.ldif
+|4,39,1,0,1791066195,"~/estructura.ldif"
+-'  1  0  ~/estructura.ldif
+|4,39,1,0,1791066195,"~/estructura.ldif"
+-'  1  0  ~/estructura.ldif
+|4,39,1,0,1791066195,"~/estructura.ldif"
+-'  1  0  ~/estructura.ldif
+|4,39,1,0,1791066195,"~/estructura.ldif"
+-'  1  0  ~/estructura.ldif
+|4,39,1,0,1791066195,"~/estructura.ldif"
+-'  1  0  ~/estructura.ldif
+|4,39,1,0,1791066195,"~/estructura.ldif"
+-'  1  0  ~/estructura.ldif
+|4,39,1,0,1791066195,"~/estructura.ldif"
+-'  7  14  ~/unidades.ldif
+|4,39,7,14,1791066182,"~/unidades.ldif"
+-'  7  14  ~/unidades.ldif
+|4,39,7,14,1791066182,"~/unidades.ldif"
+-'  7  14  ~/unidades.ldif
+|4,39,7,14,1791066182,"~/unidades.ldif"
+-'  7  14  ~/unidades.ldif
+|4,39,7,14,1791066182,"~/unidades.ldif"
+-'  7  14  ~/unidades.ldif
+|4,39,7,14,1791066182,"~/unidades.ldif"
+-'  7  14  ~/unidades.ldif
+|4,39,7,14,1791066182,"~/unidades.ldif"
+-'  7  14  ~/unidades.ldif
+|4,39,7,14,1791066182,"~/unidades.ldif"
+-'  7  14  ~/unidades.ldif
+|4,39,7,14,1791066182,"~/unidades.ldif"
+-'  7  14  ~/unidades.ldif
+|4,39,7,14,1791066182,"~/unidades.ldif"
+-'  7  14  ~/unidades.ldif
+|4,39,7,14,1791066182,"~/unidades.ldif"
+-'  7  14  ~/unidades.ldif
+|4,39,7,14,1791066182,"~/unidades.ldif"
+-'  7  14  ~/unidades.ldif
+|4,39,7,14,1791066182,"~/unidades.ldif"
+-'  7  14  ~/unidades.ldif
+|4,39,7,14,1791066182,"~/unidades.ldif"
+-'  7  14  ~/unidades.ldif
+|4,39,7,14,1791066182,"~/unidades.ldif"
+-'  7  14  ~/unidades.ldif
+|4,39,7,14,1791066182,"~/unidades.ldif"
+-'  7  14  ~/unidades.ldif
+|4,39,7,14,1791066182,"~/unidades.ldif"
+-'  1  0  ~/unidades.ldif
+|4,39,1,0,1791066156,"~/unidades.ldif"
+-'  1  0  ~/unidades.ldif
+|4,39,1,0,1791066156,"~/unidades.ldif"
+-'  1  0  ~/unidades.ldif
+|4,39,1,0,1791066156,"~/unidades.ldif"
+-'  1  0  ~/unidades.ldif
+|4,39,1,0,1791066156,"~/unidades.ldif"
+-'  1  0  ~/unidades.ldif
+|4,39,1,0,1791066156,"~/unidades.ldif"
+-'  1  0  ~/unidades.ldif
+|4,39,1,0,1791066156,"~/unidades.ldif"
+-'  1  0  ~/unidades.ldif
+|4,39,1,0,1791066156,"~/unidades.ldif"
+-'  1  0  ~/unidades.ldif
+|4,39,1,0,1791066156,"~/unidades.ldif"
+-'  1  0  ~/unidades.ldif
+|4,39,1,0,1791066156,"~/unidades.ldif"
+-'  1  0  ~/unidades.ldif
+|4,39,1,0,1791066156,"~/unidades.ldif"
+-'  1  0  ~/unidades.ldif
+|4,39,1,0,1791066156,"~/unidades.ldif"
+-'  1  0  ~/unidades.ldif
+|4,39,1,0,1791066156,"~/unidades.ldif"
+-'  1  0  ~/unidades.ldif
+|4,39,1,0,1791066156,"~/unidades.ldif"
+-'  1  0  ~/unidades.ldif
+|4,39,1,0,1791066156,"~/unidades.ldif"
+-'  1  0  ~/unidades.ldif
+|4,39,1,0,1791066156,"~/unidades.ldif"
+-'  1  0  ~/unidades.ldif
+|4,39,1,0,1791066156,"~/unidades.ldif"
+-'  1  0  ~/unidades.ldif
+|4,39,1,0,1791066156,"~/unidades.ldif"
+-'  1  0  ~/unidades.ldif
+|4,39,1,0,1791066156,"~/unidades.ldif"
+-'  1  0  ~/unidades.ldif
+|4,39,1,0,1791066156,"~/unidades.ldif"
+-'  1  0  ~/unidades.ldif
+|4,39,1,0,1791066156,"~/unidades.ldif"
+-'  1  0  ~/unidades.ldif
+|4,39,1,0,1791066156,"~/unidades.ldif"
+-'  1  0  ~/unidades.ldif
+|4,39,1,0,1791066156,"~/unidades.ldif"
+-'  1  0  ~/unidades.ldif
+|4,39,1,0,1791066156,"~/unidades.ldif"
+-'  1  0  ~/unidades.ldif
+|4,39,1,0,1791066156,"~/unidades.ldif"
+-'  1  0  ~/unidades.ldif
+|4,39,1,0,1791065989,"~/unidades.ldif"
+-'  1  0  ~/unidades.ldif
+|4,39,1,0,1791065989,"~/unidades.ldif"
+-'  1  0  ~/unidades.ldif
+|4,39,1,0,1791065989,"~/unidades.ldif"
+-'  1  0  ~/unidades.ldif
+|4,39,1,0,1791065989,"~/unidades.ldif"
+-'  1  0  ~/unidades.ldif
+|4,39,1,0,1791065989,"~/unidades.ldif"
+-'  1  0  ~/unidades.ldif
+|4,39,1,0,1791065989,"~/unidades.ldif"
+-'  1  0  ~/unidades.ldif
+|4,39,1,0,1791065989,"~/unidades.ldif"
+-'  1  0  ~/unidades.ldif
+|4,39,1,0,1791065989,"~/unidades.ldif"
+-'  1  0  ~/unidades.ldif
+|4,39,1,0,1791065989,"~/unidades.ldif"
+-'  1  0  ~/unidades.ldif
+|4,39,1,0,1791065989,"~/unidades.ldif"
+-'  1  0  ~/unidades.ldif
+|4,39,1,0,1791065989,"~/unidades.ldif"
+-'  1  0  ~/unidades.ldif
+|4,39,1,0,1791065989,"~/unidades.ldif"
+-'  1  0  ~/unidades.ldif
+|4,39,1,0,1791065989,"~/unidades.ldif"
+-'  1  0  ~/unidades.ldif
+|4,39,1,0,1791065989,"~/unidades.ldif"
+-'  1  0  ~/unidades.ldif
+|4,39,1,0,1791065989,"~/unidades.ldif"
+-'  1  0  ~/unidades.ldif
+|4,39,1,0,1791065989,"~/unidades.ldif"
+-'  1  0  ~/estructura.ldif
+|4,39,1,0,1791065962,"~/estructura.ldif"
+-'  1  0  ~/estructura.ldif
+|4,39,1,0,1791065962,"~/estructura.ldif"
+-'  1  0  ~/estructura.ldif
+|4,39,1,0,1791065962,"~/estructura.ldif"
+-'  1  0  ~/estructura.ldif
+|4,39,1,0,1791065962,"~/estructura.ldif"
+-'  1  0  ~/estructura.ldif
+|4,39,1,0,1791065962,"~/estructura.ldif"
+-'  1  0  ~/estructura.ldif
+|4,39,1,0,1791065962,"~/estructura.ldif"
+-'  1  0  ~/estructura.ldif
+|4,39,1,0,1791065962,"~/estructura.ldif"
+-'  1  0  ~/estructura.ldif
+|4,39,1,0,1791065962,"~/estructura.ldif"
+-'  1  0  ~/estructura.ldif
+|4,39,1,0,1791065962,"~/estructura.ldif"
+-'  1  0  ~/estructura.ldif
+|4,39,1,0,1791065962,"~/estructura.ldif"
+-'  1  0  ~/estructura.ldif
+|4,39,1,0,1791065962,"~/estructura.ldif"
+-'  1  0  ~/estructura.ldif
+|4,39,1,0,1791065962,"~/estructura.ldif"
+-'  1  0  ~/estructura.ldif
+|4,39,1,0,1791065962,"~/estructura.ldif"
+-'  1  0  ~/estructura.ldif
+|4,39,1,0,1791065962,"~/estructura.ldif"
+
+# Historia de las marcas en los archivos (de la más reciente a la más antigua):
+
+> ~/usuarios.ldif
+	*	1791067476	0
+	"	103	1
+	^	103	2
+
+> ~/grupos.ldif
+	*	1791066784	0
+	"	1	0
+	^	1	0
+
+> ~/unidades.ldif
+	*	1791066211	0
+	"	7	14
+	^	7	15
+	.	7	14
+	+	7	14
+
+> ~/estructura.ldif
+	*	1791066190	0
+	"	1	0
+	^	1	0
+	.	1	0
+	+	6	14
+	+	1	0
+	+	2	0
+	+	9	0
+	+	29	0
+	+	1	0

@@ -1,0 +1,66 @@
+oct 03 20:31:54 walterldap kernel: piix4_smbus 0000:00:07.3: SMBus Host Controller not enabled!
+oct 03 20:32:10 walterldap login[1159]: PAM unable to dlopen(pam_lastlog.so): /usr/lib/security/pam_lastlog.so: cannot open shared object file: No such file or directory
+oct 03 20:32:10 walterldap login[1159]: PAM adding faulty module: pam_lastlog.so
+-- Boot 1cd9d1213cd341e1af2cbc5f74a9a7bb --
+oct 03 20:36:19 walterldap kernel: piix4_smbus 0000:00:07.3: SMBus Host Controller not enabled!
+oct 03 20:36:31 walterldap login[1233]: PAM unable to dlopen(pam_lastlog.so): /usr/lib/security/pam_lastlog.so: cannot open shared object file: No such file or directory
+oct 03 20:36:31 walterldap login[1233]: PAM adding faulty module: pam_lastlog.so
+-- Boot a7c9632bb4254da78e737431489d62d1 --
+oct 03 20:38:22 walterldap kernel: piix4_smbus 0000:00:07.3: SMBus Host Controller not enabled!
+oct 03 20:38:31 walterldap login[1081]: PAM unable to dlopen(pam_lastlog.so): /usr/lib/security/pam_lastlog.so: cannot open shared object file: No such file or directory
+oct 03 20:38:31 walterldap login[1081]: PAM adding faulty module: pam_lastlog.so
+-- Boot 0143ad52782f43789e117ed6657084a2 --
+oct 03 21:06:22 walterldap kernel: piix4_smbus 0000:00:07.3: SMBus Host Controller not enabled!
+oct 03 21:06:27 walterldap login[1088]: PAM unable to dlopen(pam_lastlog.so): /usr/lib/security/pam_lastlog.so: cannot open shared object file: No such file or directory
+oct 03 21:06:27 walterldap login[1088]: PAM adding faulty module: pam_lastlog.so
+-- Boot fa1632d212be4c4190a560c7af5c79c4 --
+oct 03 21:12:16 walterldap kernel: piix4_smbus 0000:00:07.3: SMBus Host Controller not enabled!
+oct 03 21:12:23 walterldap login[1085]: PAM unable to dlopen(pam_lastlog.so): /usr/lib/security/pam_lastlog.so: cannot open shared object file: No such file or directory
+oct 03 21:12:23 walterldap login[1085]: PAM adding faulty module: pam_lastlog.so
+-- Boot 20ffcf99d19a49e3a1083e2f08d32b53 --
+oct 03 21:30:46 walterldap kernel: piix4_smbus 0000:00:07.3: SMBus Host Controller not enabled!
+oct 03 21:30:53 walterldap login[1097]: PAM unable to dlopen(pam_lastlog.so): /usr/lib/security/pam_lastlog.so: cannot open shared object file: No such file or directory
+oct 03 21:30:53 walterldap login[1097]: PAM adding faulty module: pam_lastlog.so
+-- Boot beb556eebfaa46118789a6e5015fa47b --
+oct 04 11:13:15 walterldap kernel: piix4_smbus 0000:00:07.3: SMBus Host Controller not enabled!
+oct 04 11:13:30 walterldap login[1338]: PAM unable to dlopen(pam_lastlog.so): /usr/lib/security/pam_lastlog.so: cannot open shared object file: No such file or directory
+oct 04 11:13:30 walterldap login[1338]: PAM adding faulty module: pam_lastlog.so
+oct 04 14:26:08 walterldap apache2[13517]: LDAP Account Manager (a4r6q5e52tlc4q8gpbh7knkj7k - 192.168.178.130 - cn=Manager,dc=my-domain,dc=com) - ERROR: User cn=Manager,dc=my-domain,dc=com (192.168.178.130) failed to log in (wrong password). Error de LDAP, el servidor dice: Invalid credentials
+oct 04 14:26:14 walterldap apache2[13516]: LDAP Account Manager (vls68dicge4l7erd74apcnj5d8 - 192.168.178.130 - cn=Manager,dc=my-domain,dc=com) - ERROR: User cn=Manager,dc=my-domain,dc=com (192.168.178.130) failed to log in (wrong password). Error de LDAP, el servidor dice: Invalid credentials
+oct 04 14:26:15 walterldap apache2[13516]: LDAP Account Manager (ekh6ig6eq6crsacenqvb2n6kef - 192.168.178.130 - cn=Manager,dc=my-domain,dc=com) - ERROR: User cn=Manager,dc=my-domain,dc=com (192.168.178.130) failed to log in (wrong password). Error de LDAP, el servidor dice: Invalid credentials
+oct 04 14:26:29 walterldap apache2[13640]: LDAP Account Manager (14o4ptdr1a03dgmk9idsdt61su - 192.168.178.130 - cn=Manager,dc=my-domain,dc=com) - ERROR: User cn=Manager,dc=my-domain,dc=com (192.168.178.130) failed to log in (wrong password). Error de LDAP, el servidor dice: Invalid credentials
+oct 04 14:26:45 walterldap apache2[13642]: LDAP Account Manager (9dfalsv6sbfn6ajmn3nl0up9lu - 192.168.178.130 - cn=Manager,dc=my-domain,dc=com) - ERROR: User cn=Manager,dc=my-domain,dc=com (192.168.178.130) failed to log in (wrong password). Error de LDAP, el servidor dice: Invalid credentials
+oct 04 14:26:55 walterldap apache2[13641]: LDAP Account Manager (eqhv97hr1h2m244labje78f0l4 - 192.168.178.130 - cn=Manager,dc=my-domain,dc=com) - ERROR: User cn=Manager,dc=my-domain,dc=com (192.168.178.130) failed to log in (wrong password). Error de LDAP, el servidor dice: Invalid credentials
+oct 04 14:27:00 walterldap apache2[13512]: LDAP Account Manager (ubr0tu8oujrrkls17cl8j1ml79 - 192.168.178.130 - cn=Manager,dc=my-domain,dc=com) - ERROR: User cn=Manager,dc=my-domain,dc=com (192.168.178.130) failed to log in (wrong password). Error de LDAP, el servidor dice: Invalid credentials
+oct 04 14:28:25 walterldap apache2[13517]: LDAP Account Manager (tkus9lsnrpus53sjc6dtkh1hb3 - 192.168.178.130 - cn=Manager,dc=my-domain,dc=com) - ERROR: User cn=Manager,dc=my-domain,dc=com (192.168.178.130) failed to log in (wrong password). Error de LDAP, el servidor dice: Invalid credentials
+oct 04 18:24:12 walterldap kernel: watchdog: BUG: soft lockup - CPU#0 stuck for 26s! [swapper/0:0]
+oct 04 18:24:12 walterldap systemd[1]: systemd-journald.service: Watchdog timeout (limit 3min)!
+-- Boot 5f4670715b014d0b827c973f84b34129 --
+oct 04 18:28:53 walterldap kernel: piix4_smbus 0000:00:07.3: SMBus Host Controller not enabled!
+oct 04 18:29:02 walterldap login[1098]: PAM unable to dlopen(pam_lastlog.so): /usr/lib/security/pam_lastlog.so: cannot open shared object file: No such file or directory
+oct 04 18:29:02 walterldap login[1098]: PAM adding faulty module: pam_lastlog.so
+-- Boot be30db622b274715a48c2bed383bd374 --
+oct 04 18:30:39 walter-dc-smb kernel: piix4_smbus 0000:00:07.3: SMBus Host Controller not enabled!
+oct 04 18:30:47 walter-dc-smb login[1017]: PAM unable to dlopen(pam_lastlog.so): /usr/lib/security/pam_lastlog.so: cannot open shared object file: No such file or directory
+oct 04 18:30:47 walter-dc-smb login[1017]: PAM adding faulty module: pam_lastlog.so
+oct 04 18:53:28 walter-dc-smb sudo[1848]:   walter : unable to resolve host walter-dc-smb: Temporary failure in name resolution
+oct 04 18:53:52 walter-dc-smb sudo[1850]:   walter : unable to resolve host walter-dc-smb: Temporary failure in name resolution
+oct 04 18:59:58 walter-dc-smb sudo[1869]:   walter : unable to resolve host walter-dc-smb: Temporary failure in name resolution
+-- Boot 385da7e440ef4339bcfae13025d6d53d --
+oct 04 19:22:11 walter-dc-smb kernel: piix4_smbus 0000:00:07.3: SMBus Host Controller not enabled!
+oct 04 19:22:16 walter-dc-smb login[1300]: PAM unable to dlopen(pam_lastlog.so): /usr/lib/security/pam_lastlog.so: cannot open shared object file: No such file or directory
+oct 04 19:22:16 walter-dc-smb login[1300]: PAM adding faulty module: pam_lastlog.so
+-- Boot 369237174ba94ccd8cbabfbf5c021d06 --
+oct 16 19:13:49 walter-dc-smb kernel: piix4_smbus 0000:00:07.3: SMBus Host Controller not enabled!
+oct 16 19:13:50 walter-dc-smb systemd[1]: Failed to start rsyslog.service - System Logging Service.
+oct 16 19:14:10 walter-dc-smb login[1379]: PAM unable to dlopen(pam_lastlog.so): /usr/lib/security/pam_lastlog.so: cannot open shared object file: No such file or directory
+oct 16 19:14:10 walter-dc-smb login[1379]: PAM adding faulty module: pam_lastlog.so
+-- Boot 99cbabe6dbdd4898bcc4c0bd4af38727 --
+oct 16 21:22:01 walterubuserv kernel: piix4_smbus 0000:00:07.3: SMBus Host Controller not enabled!
+oct 16 21:22:48 walterubuserv login[1295]: PAM unable to dlopen(pam_lastlog.so): /usr/lib/security/pam_lastlog.so: cannot open shared object file: No such file or directory
+oct 16 21:22:48 walterubuserv login[1295]: PAM adding faulty module: pam_lastlog.so
+-- Boot 6f49681724c74c05a10f5071429d6f0e --
+oct 17 15:06:32 walterubuserv kernel: piix4_smbus 0000:00:07.3: SMBus Host Controller not enabled!
+oct 17 15:06:48 walterubuserv login[1235]: PAM unable to dlopen(pam_lastlog.so): /usr/lib/security/pam_lastlog.so: cannot open shared object file: No such file or directory
+oct 17 15:06:48 walterubuserv login[1235]: PAM adding faulty module: pam_lastlog.so
+oct 17 15:18:17 walterubuserv sshd[15183]: fatal: userauth_finish: send failure packet: Connection reset by peer [preauth]

@@ -1,0 +1,7 @@
+dn: ou=Alumnado,dc=walter2026,dc=ldap
+objectClass: organizationalUnit
+ou: Alumnado
+
+dn: ou=Profesorado,dc=walter2026,dc=ldap
+objectClass: organizationalUnit
+ou: Profesorado
